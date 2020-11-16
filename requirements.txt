@@ -1,0 +1,19 @@
+attrs==20.3.0
+click==7.1.2
+coverage==5.3
+Flask==1.1.2
+-e git+git@github.com:workbench-a/flask_intro.git@e3f2a57b60a254b75a5aca1020b198e88298f27e#egg=flaskr
+gunicorn==20.0.4
+iniconfig==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+packaging==20.4
+pluggy==0.13.1
+py==1.9.0
+pyparsing==2.4.7
+pytest==6.1.2
+six==1.15.0
+toml==0.10.2
+waitress==1.4.4
+Werkzeug==1.0.1
