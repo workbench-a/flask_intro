@@ -1,4 +1,4 @@
-# A Full-Stack Application in Flask
+# A Blog Built with Flask
 
 ## Hosted on Heroku [here](https://the-flask-tutorial.herokuapp.com/)
 
